@@ -1,1 +1,1 @@
-# BHARAT INTERNSHIP-Weather-website
+# Bharat Internship-Weather-website
